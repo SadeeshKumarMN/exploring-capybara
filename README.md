@@ -1,6 +1,6 @@
 ## Exploring with TAU-Capybara
 
-Exploring(WIP- Notice some issues internally during execution with Apparition driver) this wonderful course created by T.J. Maher: https://testautomationu.applitools.com/capybara-ruby/ from [Applitool's Test Automation Univerity]https://testautomationu.applitools.com/
+Exploring(WIP- Notice some issues internally during execution with Apparition driver) this [wonderful capybara course](https://testautomationu.applitools.com/capybara-ruby/) created by [T.J.Maher](http://www.tjmaher.com/) in [Applitool's Test Automation Univerity](https://testautomationu.applitools.com/)
 
 ## An Introduction to Capybara
 
